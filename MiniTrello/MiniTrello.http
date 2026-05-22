@@ -1,0 +1,6 @@
+@MiniTrello_HostAddress = http://localhost:5274
+
+GET {{MiniTrello_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
